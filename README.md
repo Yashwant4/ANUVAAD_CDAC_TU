@@ -2,7 +2,7 @@
 Multilingual Chat app and translation engine backend
 
 
-This repository contains the deployment-ready backend for the SaralVarta Multilingual Chat Platform.
+This repository contains the deployment-ready backend for the Anuvaad Multilingual Chat Platform.
 
 📦 System Requirements
 
@@ -50,7 +50,7 @@ Translation: AI4Bharat/IndicTrans2
 
 👥 Contributors & Credits
 
-Team: Yashwant Kumar Upadhyay, Vikrant Kumar, Medhabrata Konwar, Debashis Bhuyan, Bhargab Jyoti Bhuyan.
+Team: Yashwant Kumar Upadhyay, Vikrant Kumar, Medhabrata Konwar, Debashis Bhuyan, Bhargab Jyoti Bhuyan, Yajant Kumar.
 
 Guides:
 
